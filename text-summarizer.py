@@ -11,13 +11,10 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-
-    /* Main container */
     .main {
         padding-top: 2rem;
     }
 
-    /* Title */
     .title {
         text-align: center;
         font-size: 42px;
@@ -25,14 +22,12 @@ st.markdown("""
         margin-bottom: 5px;
     }
 
-    /* Subtitle */
     .subtitle {
         text-align: center;
         font-size: 17px;
         margin-bottom: 30px;
     }
 
-    /* Summary box */
     .summary-box {
         padding: 20px;
         border-radius: 12px;
@@ -40,7 +35,6 @@ st.markdown("""
         margin-top: 20px;
     }
 
-    /* Button */
     .stButton > button {
         width: 100%;
         border-radius: 10px;
@@ -49,7 +43,6 @@ st.markdown("""
         font-weight: 600;
     }
 
-    /* Footer */
     .footer {
         text-align: center;
         margin-top: 40px;
