@@ -91,13 +91,11 @@ The application will open in your web browser.
 
 ### Application Interface
 
-Add a screenshot of the application here.
 
 ![AI Text Summarizer](screenshot.PNG)
 
 ### Generated Summary
 
-Add a screenshot showing the generated summary here.
 
 ![Generated Summary](summary.PNG)
 
