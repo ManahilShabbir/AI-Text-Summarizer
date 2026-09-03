@@ -11,6 +11,7 @@ st.set_page_config(
 
 st.markdown("""
 <style>
+
     .main {
         padding-top: 2rem;
     }
